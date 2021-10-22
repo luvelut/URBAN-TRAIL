@@ -15,7 +15,7 @@ J'ai également réalisé différents supports visuels pour promouvoir et faire 
 
 ![flyer](https://github.com/luvelut/URBAN-TRAIL/blob/main/flyer-mockup.png) 
 
-![flyer](https://github.com/luvelut/URBAN_TRAIL/blob/main/affiche-mockup.png) 
+![affiche](https://github.com/luvelut/URBAN-TRAIL/blob/main/affiche-mockup.png) 
 
 
 ## COMMENTAIRES
