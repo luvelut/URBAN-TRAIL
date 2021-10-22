@@ -7,7 +7,7 @@ Le Puy Urban Trail est une association qui organise chaque année au Puy-en-Vela
 Cette année, l'association aimerait faire une refonte de son site pour se démarquer et promouvoir d'avantage cette événement.
 Le site actuel est disponible à l'url suivante : https://www.lepuyurbantrail.fr/
 
-Mon travail, dans le cadre de la licence professionnelle, a été de réaliser la maquette de ce nouveau site. Vous pouvez retrouvez cette maquette via le fichier .xd dans ce dépôt.
+Mon travail, dans le cadre de la licence professionnelle, a été de réaliser la maquette de ce nouveau site. __Vous pouvez retrouvez cette maquette via le fichier .xd dans ce dépôt__.
 
 ## SUPPORTS DE COMMUNICATION
 
